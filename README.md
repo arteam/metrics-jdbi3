@@ -28,6 +28,6 @@ jdbi.setTimingCollector(new InstrumentedTimingCollector(new MetricRegistry(), ne
 <dependency>
      <groupId>com.github.arteam</groupId>
      <artifactId>metrics-jdbi3</artifactId>
-     <version>0.2</version>
+     <version>1.0-rc2</version>
 </dependency>
 ```
