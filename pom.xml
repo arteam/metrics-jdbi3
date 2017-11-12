@@ -4,7 +4,7 @@
 
     <groupId>com.github.arteam</groupId>
     <artifactId>metrics-jdbi3</artifactId>
-    <version>1.0-rc3-SNAPSHOT</version>
+    <version>1.0-rc3</version>
     <name>Dropwizard Metrics for JDBI3</name>
     <description>Support for instrumentation of JDBI3 code with Dropwizard Metrics</description>
     <url>https://github.com/arteam/metrics-jdbi3</url>
@@ -12,7 +12,7 @@
     <scm>
         <developerConnection>scm:git:git@github.com:arteam/metrics-jdbi3.git</developerConnection>
         <url>https://github.com/arteam/metrics-jdbi3</url>
-        <tag>HEAD</tag>
+        <tag>metrics-jdbi3-1.0-rc3</tag>
     </scm>
 
     <licenses>
